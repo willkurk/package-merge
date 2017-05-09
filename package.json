@@ -1,6 +1,6 @@
 {
 	"name": "package-merge-lodash-4",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Fork of package-merge to work with Lodash 4.",
 	"author": "William Kurkian <wkurkian3@gmail.com>",
 	"main": "lib/merge.js",
